@@ -1,2 +1,2 @@
 # PGA-ADC-controller
-Spartan-3AN PGA and ADC controller
+Xilinx FPGA Spartan-3AN Starter Kit PGA and ADC controller
